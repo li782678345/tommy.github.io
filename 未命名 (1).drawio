@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-04T03:41:50.604Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="Bz0fwlkaGH4JyZx8jIwO" version="21.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-04T06:42:32.395Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="msYbZg3aj-qeMK2T93TR" version="21.0.2" type="github">
   <diagram id="OE4C1FlmMiVD_P9bkj5v" name="第 2 页">
     <mxGraphModel dx="1546" dy="835" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -199,6 +199,15 @@
         </mxCell>
         <mxCell id="-JDEevKfmv0RGfHEk7cI-10" value="Direction集群" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DwUHdm88fEw4uy0n-BkT-85">
           <mxGeometry x="580" y="570" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-JDEevKfmv0RGfHEk7cI-11" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=classicThin;endFill=1;" edge="1" parent="DwUHdm88fEw4uy0n-BkT-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="329" y="599" as="sourcePoint" />
+            <mxPoint x="140" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-JDEevKfmv0RGfHEk7cI-12" value="根据VIP key返回可用ip列表" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="DwUHdm88fEw4uy0n-BkT-85">
+          <mxGeometry x="159" y="569" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
